@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 hi, i'm aaryan paiva
 
-<!--
-**Aaryan-Paiva/Aaryan-Paiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **cs @ university of waterloo**  
+🤖 building ai-driven tools — rag apps, multi-pdf retrieval, and an nlp scheduling assistant  
+💡 exploring llms, azure cognitive search, and fastapi
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 current projects
+- **[WSearch – UWaterloo Q&A (RAG)](https://github.com/Aaryan-Paiva/wsearch-rag-app)**  
+  hybrid keyword + semantic search using azure cognitive search & gpt-4o
+- **[Multi-PDF Hierarchical RAG](https://github.com/Aaryan-Paiva/multi-pdf-hierarchical-rag)**  
+  topic-aware semantic retrieval pipeline for multi-document q&a
+- **[Personal AI Scheduler](https://github.com/Aaryan-Paiva/nlp-scheduler-assistant)** *(in development)*  
+  chat assistant that syncs gmail + google calendar
+
+---
+
+### 🧰 tech stack
+`python` • `azure` • `fastapi` • `streamlit` • `spacy` • `pandas` • `git`
+
+---
+
+### 🌐 connect
+[linkedin](https://linkedin.com/in/aaryan-paiva) • [email](mailto:apaiva@uwaterloo.ca)
