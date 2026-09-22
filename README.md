@@ -11,8 +11,6 @@
   hybrid keyword + semantic search using azure cognitive search & gpt-4o
 - **[Multi-PDF Hierarchical RAG](https://github.com/Aaryan-Paiva/multi-pdf-hierarchical-rag)**  
   topic-aware semantic retrieval pipeline for multi-document q&a
-- **[Personal AI Scheduler](https://github.com/Aaryan-Paiva/nlp-scheduler-assistant)** *(in development)*  
-  chat assistant that syncs gmail + google calendar
 
 ---
 
